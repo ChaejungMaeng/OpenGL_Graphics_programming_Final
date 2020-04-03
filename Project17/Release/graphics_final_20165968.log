@@ -1,0 +1,91 @@
+﻿  finalproject_20165968_맹채정.cpp
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(593): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(604): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(615): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(635): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(636): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(637): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(722): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(723): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(724): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(743): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(745): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(748): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(756): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\camera.h(763): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(45): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(56): warning C4244: '초기화 중': 'double'에서 'GLubyte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(60): warning C4244: '=': 'float'에서 'GLubyte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(92): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(203): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(222): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(223): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(224): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(235): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(236): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(241): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(317): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(318): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(320): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(321): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(418): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(422): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(463): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(481): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(496): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(511): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(526): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(541): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(556): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(571): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(586): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(607): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(623): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(638): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(654): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(671): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(692): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(696): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(708): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(712): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(724): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(728): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(740): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(742): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(755): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(758): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(769): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(771): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(789): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(790): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(791): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(919): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(911): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(911): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(911): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(910): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(910): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(961): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(975): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(977): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1057): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1058): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1061): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1063): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1067): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1073): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1077): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1092): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1093): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1100): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1102): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1089): warning C4101: 'theta' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1089): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1089): warning C4101: 'angle' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\[인터랙티브그래픽스]기말프로젝트_최은진\project17\finalproject_20165968_맹채정.cpp(1120): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  6 of 951 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project17.vcxproj -> C:\Users\Administrator\Desktop\[인터랙티브그래픽스]기말프로젝트_최은진\Release\Project17.exe

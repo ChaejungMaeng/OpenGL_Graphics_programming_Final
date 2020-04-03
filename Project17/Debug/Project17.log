@@ -1,0 +1,35 @@
+﻿  multilight.cpp
+c:\users\eunjin\source\repos\project17\project17\mat.h(593): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(604): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(615): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(635): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(636): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(637): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(722): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(723): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(724): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(743): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(745): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(748): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(756): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\mat.h(763): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(304): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(317): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(371): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(379): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(391): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(392): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(395): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(397): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(401): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(407): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(411): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(428): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(429): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(436): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(438): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(425): warning C4101: 'theta' :참조되지 않은 지역 변수입니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(425): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(425): warning C4101: 'angle' :참조되지 않은 지역 변수입니다.
+c:\users\eunjin\source\repos\project17\project17\multilight.cpp(457): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Project17.vcxproj -> C:\Users\Eunjin\source\repos\Project17\Debug\Project17.exe
