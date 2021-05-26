@@ -2,6 +2,7 @@
 
 ## Christmas_the Nutcracker Suite
 
+![Captured_Picture](https://user-images.githubusercontent.com/38905066/119699476-2e37b100-be8d-11eb-833c-b98e67fdf24a.jpg)
 
 ## 세부 구현
 ## 1. 모델링
